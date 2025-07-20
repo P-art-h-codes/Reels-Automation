@@ -1,0 +1,44 @@
+# Reddit API
+praw
+
+# Data handling
+numpy
+pandas
+
+# Image and video processing
+opencv-python
+moviepy==1.0.3
+Pillow
+
+# Audio processing
+soundfile
+torch
+torchaudio
+
+# TTS and phonemizer
+kokoro-onnx
+phonemizer
+# espeak-ng - system dependency, install separately (see installation notes below)
+
+# Web requests
+requests
+
+# Environment variables
+python-dotenv
+
+# Standard libraries (usually included with Python, but listed for completeness)
+# json - built-in
+# csv - built-in
+# time - built-in
+# datetime - built-in
+# re - built-in
+# os - built-in
+# random - built-in
+# argparse - built-in
+# textwrap - built-in
+# threading - built-in
+# queue - built-in
+# io - built-in
+# pathlib - built-in
+# subprocess - built-in
+# sys - built-in
