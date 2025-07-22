@@ -1,0 +1,14 @@
+[project]
+name = "reelautomation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "kokoro>=0.9.4",
+    "moviepy==1.0.3",
+    "pillow>=11.3.0",
+    "praw>=7.8.1",
+    "soundfile>=0.13.1",
+]

@@ -1,6 +1,5 @@
 import os
 import random
-import cv2
 from moviepy.editor import *
 from moviepy.video.fx import resize, fadein, fadeout
 from moviepy.video.fx.all import colorx

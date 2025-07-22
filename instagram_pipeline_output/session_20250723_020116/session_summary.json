@@ -1,0 +1,64 @@
+{
+  "session_id": "20250723_020116",
+  "timestamp": "2025-07-23T02:25:51.757071",
+  "config": {
+    "output_folder": "instagram_pipeline_output",
+    "stock_videos_folder": "StockVideos",
+    "skip_background": false,
+    "skip_scraping": false,
+    "existing_background_video": null,
+    "existing_content_file": null,
+    "background": {
+      "duration": 120,
+      "num_clips": null,
+      "effect_type": "cinematic",
+      "transition_duration": 1.5,
+      "transition_type": "crossfade"
+    },
+    "content": {
+      "subreddits": [
+        "GetMotivated",
+        "motivation",
+        "wholesomememes",
+        "LifeProTips",
+        "decidingtobebetter",
+        "selfimprovement",
+        "quotes",
+        "productivity",
+        "findapath",
+        "UpliftingNews"
+      ],
+      "posts_per_sub": 25,
+      "min_reading_time": 30,
+      "max_reading_time": 180
+    },
+    "reddit": {
+      "user_agent": "InstagramReelPipeline/1.0 by ReelCreator"
+    },
+    "reels": {
+      "num_reels": 5,
+      "language": "a",
+      "voice": "af_heart",
+      "text_style": "modern",
+      "text_animation": "fade",
+      "voice_speed": 1.0,
+      "max_duration": 90
+    }
+  },
+  "results": {
+    "session_id": "20250723_020116",
+    "session_folder": "instagram_pipeline_output\\session_20250723_020116",
+    "success": true,
+    "background_video": "instagram_pipeline_output\\session_20250723_020116\\backgrounds\\background_20250723_020116.mp4",
+    "content_file": "instagram_pipeline_output\\session_20250723_020116\\content_20250723_020116.json",
+    "created_reels": [
+      "instagram_pipeline_output\\session_20250723_020116\\reels\\reel_01_Can_we_stop_bashing__20250723_021018.mp4",
+      "instagram_pipeline_output\\session_20250723_020116\\reels\\reel_02_Whats_the_real_reaso_20250723_021320.mp4",
+      "instagram_pipeline_output\\session_20250723_020116\\reels\\reel_03_I_regret_being_an_in_20250723_021605.mp4",
+      "instagram_pipeline_output\\session_20250723_020116\\reels\\reel_04_LPT_If_you_are_strug_20250723_021836.mp4",
+      "instagram_pipeline_output\\session_20250723_020116\\reels\\reel_05_Procrastination_Caus_20250723_022026.mp4"
+    ],
+    "errors": [],
+    "processing_time": 0
+  }
+}
